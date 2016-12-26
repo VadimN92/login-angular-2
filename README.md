@@ -29,3 +29,10 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## Helper link
+http://blog.thoughtram.io/angular/2016/06/22/model-driven-forms-in-angular-2.html
+https://angular-2-training-book.rangle.io/handout/routing/child_routes.html
+http://4dev.tech/2016/03/login-screen-and-authentication-with-angular2/
+http://blog.thoughtram.io/angular/2016/07/18/guards-in-angular-2.html#guard-types
