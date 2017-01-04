@@ -1,0 +1,18 @@
+<h1>
+  This is home page, if you are not auth you cannot see this page
+</h1>
+<h1>{{title}}</h1>
+<a [routerLink]="['test1']" routerLinkActive="active">test1</a>
+
+<a [routerLink]="['test2']" >test2</a>
+<a (click)="logout()">LogOut</a>
+
+
+
+<button (click)="toggleVisibility()">Toggle box</button>
+
+<div [@visibilityChanged]="visibility"><b> text which can  hide and show</b> </div>
+
+
+
+<router-outlet></router-outlet>
